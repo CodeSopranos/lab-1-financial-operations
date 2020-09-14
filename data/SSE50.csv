@@ -1,5 +1,4 @@
-Tsinghua Tongfang, Other,600100
-Xinwei Group,Other,600485
+Tsinghua Tongfang,Other,600100
 China Southern Airlines,Airline,600029
 SAIC Motor,Automotive,600104
 Shanghai Pudong Development Bank,Banking,600000
@@ -14,14 +13,14 @@ Bank of Communications,Banking,601328
 Industrial and Commercial Bank of China,Banking,601398
 China Everbright Bank,Banking,601818
 Bank of China,Banking,601988
-Kweichow Moutai, Beverages,600519
-China Railway Construction ,Construction,601186
-China Railway [Engineering] ,Construction,601390
-China State Construction Engineering ,Construction,601668
-China Communications Construction ,Construction,601800
+Kweichow Moutai,Beverages,600519
+China Railway Construction,Construction,601186
+China Railway [Engineering],Construction,601390
+China State Construction Engineering,Construction,601668
+China Communications Construction,Construction,601800
 Yili Group,Dairy,600887
-China Shenhua Energy ,Energy,601088
-China National Nuclear Power ,Energy,601985
+China Shenhua Energy,Energy,601088
+China National Nuclear Power,Energy,601985
 CITIC Securities,Financial services,600030
 Haitong Securities,Financial services,600837
 Orient Securities,Financial services,600958
@@ -48,4 +47,5 @@ Greenland Holdings,Real estate,600606
 CRRC,Rolling stock,601766
 China Shipbuilding Industry,Shipbuilding,601989
 China United Network Communications,Telecommunication,600050
-Index, index, ^SSE50
+Bank of China Limited,Risk free,3988.HK
+Index,index,^SSE50
